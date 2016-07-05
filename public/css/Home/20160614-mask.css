@@ -1,0 +1,227 @@
+﻿body{margin:0;padding:0}
+
+.ss01 { 
+  height: 100vh; 
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center; 
+  flex-direction: column;
+  padding: 2vw;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-size: 4vw; 
+}
+
+/* CSS Document v201504161900*/
+.mask-promo .cf:afte,.s-main:after,.area:afterr{content:"\20";clear:both;height:0;display:block;overflow:hidden;}
+.mask-promo .s-main,.cf,.tba{zoom:1;}
+.mask-promo .fl,.mark{float:left;}
+.mask-promo .fr,.subMark{float:right;}
+.mask-promo .pr{position:relative;}
+.mask-promo .pa, .mask-promo .ulpa li{position:absolute;}
+.mask-promo .dib{display:inline-block;}
+.mask-promo .db{display:block;}
+.mask-promo .wh{width:100%;height:100%;}
+.mask-promo a{color:#000;text-decoration:none;}
+/*.mask-promo a:hover{color:#c3a168; -webkit-filter: brightness(1.10); -moz-filter: brightness(1.10)}*/
+.mask-promo .clear{clear:both;content:' ';display:block;font-size:0;line-height:0;width:0;height:0;visibility:hidden;}
+.mask-promo .tac{text-align:center;}
+.mask-promo .f0{font-size:0;}
+.mask-promo .cor-1{color:#67ccd8;}
+.mask-promo .cor-2{color:#fff;}
+.mask-promo .cor-3{color:#cc9966;}
+.mask-promo .f38{height:50px;font-weight:bold;font-size:38px;line-height:50px;}
+.mask-promo .tar{text-align:right;}
+.mask-promo .f16{font-size:16px;}
+.mask-promo .pb20{padding-bottom:20px;}
+.mask-promo .pb27{padding-bottom:27px;}
+.mask-promo a{-webkit-transition:all .2s linear;-o-transition:all .2s linear;transition:all .2s linear;}
+.mask-promo .m-auto{margin:0 auto;}
+ul.tncrule-ul {list-style:none; padding: 0 0 0 20px;}
+
+
+
+.s-wraper{width:100%; height: 3644px; overflow:hidden; /*background:url('../images/bg2.jpg') no-repeat center 0px;*/}
+
+.mask-promo .container {width: 1000px; height: auto; padding: 0 45px; margin:0 auto; position:relative;}
+
+.mask-promo .ss-01 { height: 685px;  min-width:1200px; background:url('../images/title.jpg') no-repeat center 0px #000082;}
+.mask-promo .ss-02 { height: 2959px; min-width:1200px; background:url('../images/bg.jpg') no-repeat center 0px #fff;}
+
+.mask-promo .ss-02 .gift-container { margin-top: 0px; top: 0px; }
+.mask-promo .ss-02 .container {  width:1090px; }
+
+.mask-promo td {vertical-align:top}
+
+.mask-promo .price {font-size: 40px; line-height: 90px; font-weight: regular; font-style:italic; font-family: Arial;}
+.mask-promo .price .dollar {font-weight: regular; font-style:italic; float:left; font-size: 24px; font-family: Arial; margin-right: 3px; margin-top:-9px;}
+
+.mask-promo .pink {color: #f1588c;}
+
+.mask-promo .pc1 {color: #05067c;}
+.mask-promo .pc2 {color: #000;}
+.mask-promo .pc3 {color: #2a285a;}
+.mask-promo .pc4 {color: #596bb5;}
+.mask-promo .pc5 {color: #f1557c;}
+
+.mask-promo .pb1 {background: #000; color:#FFF;}
+.mask-promo .pb2 {background: #ff9d5e; color:#000;}
+.mask-promo .pb3 {background: #000; color:#FFF;}
+
+/*
+.mask-promo a.action-addtocart { padding: 12px 38px 10px; text-align:center; font-size: 18px; font-style:normal; font-family:Helvetica, Arial, sans-serif;}
+.mask-promo a.action-addtocart:hover {background:#682540; color:#FFF;}
+*/
+
+.mask-promo .b-buy{background:url('../images/b-buy-switch.png'); width:110px; height: 32px;}
+.mask-promo .b-buy:hover{background-position: bottom;}
+
+.mask-promo .b-left{text-align: left; float:left; }
+.mask-promo .b-right{text-align: right; float:right; }
+.mask-promo .b-soldout{
+	background: #ccc;
+	opacity: .85; 
+	position:absolute; 
+	z-index:10; 
+	color:#fff; 
+	text-align:center; 
+	line-height: 45px;
+	margin-top: -32px;
+}
+
+.mask-promo .pd-link {position: absolute; width: 180px; height: 180px; z-index:4;}
+.mask-promo .pd-link img {margin: 30px;}
+.mask-promo .pd-link:hover {opacity:.95;filter:alpha(opacity=95);}
+.mask-promo .pd-link-nor {
+	top: -30px;
+	left: 0px;
+	opacity:0;
+}
+
+.mask-promo .pd-soldout {
+	top: 0px;
+	left: 30px;
+}
+.mask-promo .hide{display:block}
+
+.mask-promo #subtitle  {position: absolute; background:url('../images/subtitle.png') no-repeat center 0px;  width:1090px; height:90px; left: 44px; top: 140px;  z-index:1; opacity: 1}
+
+
+.mask-promo #btn0  {position: absolute; left: 68px; top: 458px; text-align:left;  z-index:1;}
+
+.mask-promo #item1 {position: absolute; left: 3px;  top: 35px;  z-index:4; opacity:1}
+.mask-promo #text1 {position: absolute; left: 112px; top: 202px; text-align:left;  z-index:1; width: 250px;}
+.mask-promo #buy1  {position: absolute; left: 115px; top: 280px; text-align:left;  z-index:1;}
+.mask-promo .pd-01 {margin-left: 362px;  margin-top: 160px;}
+
+.mask-promo #item2 {position: absolute; left: 518px;  top: 175px;  z-index:4; opacity:1}
+.mask-promo #text2 {position: absolute; left: 325px; top: 237px; text-align:left;  z-index:1; width: 250px;}
+.mask-promo #buy2  {position: absolute; left: 328px; top: 315px; text-align:left;  z-index:1;}
+.mask-promo .pd-02 {margin-left: 92px;  margin-top: 160px;}
+
+.mask-promo #item3 {position: absolute; left: 76px;  top: 326px;  z-index:4; opacity:1}
+.mask-promo #text3 {position: absolute; left: 112px; top: 202px; text-align:left;  z-index:1; width: 250px;}
+.mask-promo #buy3  {position: absolute; left: 115px; top: 280px; text-align:left;  z-index:1;}
+.mask-promo .pd-03 {margin-left: 332px;  margin-top: 160px;}
+
+
+.mask-promo #item4 {position: absolute; left: 482px;  top: 841px;  z-index:4; opacity:1}
+.mask-promo #text4 {position: absolute; left: 177px; top: 221px; text-align:left;  z-index:1; width: 250px;}
+.mask-promo #buy4  {position: absolute; left: 180px; top: 298px; text-align:left;  z-index:1;}
+.mask-promo .pd-04 {margin-left: -95px;  margin-top: 130px;}
+
+
+.mask-promo #item5 {position: absolute; left: 3px;  top: 1398px;  z-index:4; opacity:1}
+.mask-promo #text5 {position: absolute; left: 113px; top: 202px; text-align:left;  z-index:1; width: 250px;}
+.mask-promo #buy5  {position: absolute; left: 115px; top: 280px; text-align:left;  z-index:1;}
+.mask-promo .pd-05 {margin-left: 286px;  margin-top: 230px;}
+
+.mask-promo #item6 {position: absolute; left: 295px;  top: 1510px;  z-index:4; opacity:1}
+.mask-promo #text6 {position: absolute; left: 567px; top: 156px; text-align:left;  z-index:1; width: 250px;}
+.mask-promo #buy6  {position: absolute; left: 569px; top: 233px; text-align:left;  z-index:1;}
+.mask-promo .pd-06 {margin-left: 280px;  margin-top: 120px;}
+
+.mask-promo #item7 {position: absolute; left: 420px;  top: 2014px;  z-index:4; opacity:1}
+.mask-promo #text7 {position: absolute; left: 230px; top: 193px; text-align:left;  z-index:1; width: 250px;}
+.mask-promo #buy7  {position: absolute; left: 233px; top: 270px; text-align:left;  z-index:1;}
+.mask-promo .pd-07 {margin-left: -50px;  margin-top: 150px;}
+
+.mask-promo #item8 {position: absolute; left: 43px;  top: 2561px;  z-index:4; opacity:1}
+.mask-promo #text8 {position: absolute; left: 567px; top: 156px; text-align:left;  z-index:1; width: 250px;}
+.mask-promo #buy8  {position: absolute; left: 569px; top: 233px; text-align:left;  z-index:1;}
+.mask-promo .pd-08 {margin-left: 295px;  margin-top: 120px;}
+
+
+.mask-promo .Skincare .gift {
+    position: relative;
+}
+.mask-promo .Skincare .gift-1 {
+    position: absolute;
+    top: 101px;
+    left: 52px;
+}
+.mask-promo .Skincare .gift-2 {
+    position: absolute;
+    top: 101px;
+    left: 277px;
+}
+.mask-promo .Skincare .gift-3 {
+    position: absolute;
+    top: 101px;
+    left: 484px;
+}
+.mask-promo .Skincare .gift-4 {
+    position: absolute;
+    top: 101px;
+    right: 267px;
+}
+.mask-promo .Skincare .gift-5 {
+    position: absolute;
+    top: 101px;
+    right: 54px;
+}
+
+
+/* pd group */
+.mask-promo .ss-02 .group-container {}
+.mask-promo .pd-group {width: 335px; height:335px; float:left; margin-bottom: 42px; margin-right: 42px; background:white;}
+.mask-promo .pd-right {margin-right: 0;}
+
+.mask-promo i.icon.iconfont{
+	color: #fff;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.temaibox {
+    width: 660px;
+    margin: 0 auto;
+}
+.temaibox .tnc-lightbox{
+	width:600px;
+	margin:0 auto;
+	padding:30px 30px;
+	color:#333;
+	font-size:15px; 
+	background:#f5f5f5;
+	box-shadow: 0 0 20px -3px rgba(0,0,0,.5);
+	border-radius:5px;
+}
+
+.temaibox .close {
+	color: #000;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+	font-weight:600;
+}
+.temaibox .close .iconfont {
+	-webkit-font-smoothing: subpixel-antialiased;	
+}
+.temaibox ol, .temaibox ol li{
+	list-style:decimal;
+	margin: 0 0 0 12px;
+}

@@ -1,0 +1,6 @@
+﻿文件下载网址  =>  文件保存路径
+https://www.sasa.com/public/app/site/statics/css_mini/loading.gif  =>  C:\Users\Administrator\Desktop\二期项目\www.sasa.com\images\loading_2.gif
+https://www.sasa.com/public/app/site/statics/css_mini/news_item_bg.gif  =>  C:\Users\Administrator\Desktop\二期项目\www.sasa.com\images\news_item_bg.gif
+https://www.sasa.com/themes/default/images/login_page_bg.png  =>  C:\Users\Administrator\Desktop\二期项目\www.sasa.com\images\login_page_bg.png
+https://www.sasa.com/public/app/site/statics/css_mini/images/rabit.png  =>  C:\Users\Administrator\Desktop\二期项目\www.sasa.com\images\rabit.png
+https://www.sasa.com/public/app/site/statics/css_mini/arrow_down.gif  =>  C:\Users\Administrator\Desktop\二期项目\www.sasa.com\images\arrow_down.gif
