@@ -42,7 +42,7 @@
                                         <i class="fa fa-comments fa-5x"></i>
                                     </div>
                                     <div class="col-xs-9 text-right">
-                                        <div class="huge">1</div>
+                                        <div class="huge">2</div>
                                         <div>注册用户数量</div>
                                     </div>
                                 </div>
